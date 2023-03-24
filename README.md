@@ -8,7 +8,7 @@
 
 ------
 
-# ```VIRTUAL-DESKTOP Info```
+# ```VIRTUAL-DESKTOP INFORMATION :```
 ## ```CPU 2 Core - 7GB Ram - 256 SSD```                                                                      
 <p align="center">
 <a href="https://github.com/RavensVenix/"><img title="Open Source" src="https://img.shields.io/badge/Author-RavensVenix-red"></a>
