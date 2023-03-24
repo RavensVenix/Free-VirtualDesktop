@@ -27,14 +27,20 @@
 
 -------
 
+#
 <h2 align="center">
 How To Use ? <br></h3>
 1. Download and make your own repo
-3. Go to https://dashboard.ngrok.com/login and login with github
-4. Go to https://dashboard.ngrok.com/get-started/your-authtoken and copy your authtoken
-5. Back to your Repo > Settings Repo > Secret and variables > Actions > New repository secret
-6. Name : NGROK_AUTH_TOKEN, Secret : Your Auth Token.
-7. Go to Actions Repo and Run Running workflow.
+
+2. Go to https://dashboard.ngrok.com/login and login with github
+
+3. Go to https://dashboard.ngrok.com/get-started/your-authtoken and copy your authtoken
+
+4. Back to your Repo > Settings Repo > Secret and variables > Actions > New repository secret
+
+5. Name : NGROK_AUTH_TOKEN, Secret : Your Auth Token.
+
+6. Go to Actions Repo and Run Running workflow.
 
 -------
 
